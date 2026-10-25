@@ -1,0 +1,4 @@
+I like go language!
+but company require rust language.
+why do I have to study rust?
+but for money...
